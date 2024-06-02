@@ -40,16 +40,8 @@ export default function Home() {
                 backgroundAttachment: 'fixed',
                 backgroundSize: 'cover'
             }}>
-
-
-
-
-
             <div className='w-screen h-screen bg-gradient-to-t from-[#00061860] to-[#000618d1] flex flex-col justify-center items-center p-5 z-[50]'>
 
-                {/* <video  className='absolute top-0  w-full min-h-[100vh] object-cover z-10' autoPlay loop muted>
-      <source src='underwater.mp4' type="video/mp4" />
-    </video>  */}
                 <img src="/truck.png" className='fixed  w-screen h-screen bg-[#01A7EB] object-cover lg:hidden' alt="" />
 
                 <img src="/airplane-bg.jpg" className='fixed  w-screen h-screen bg-[#01A7EB] object-cover hidden md:block' alt="" />
