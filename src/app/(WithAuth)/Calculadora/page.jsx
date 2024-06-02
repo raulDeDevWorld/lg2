@@ -63,7 +63,7 @@ export default function Home() {
                 </div>
 
 
-
+      
 
 
                 <div className='relative bg-[#ffffffef] rounded-[10px] p-10 m-[10px] min-h-[600px] md:min-h-[540px]'>
